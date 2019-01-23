@@ -4,5 +4,5 @@
 
 
 ### Why Go?
-#### Clean, compiled, modern, safe with good readability and less verbiage
+Clean, compiled, modern, safe with good readability and less verbiage
 
